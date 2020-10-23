@@ -8,8 +8,7 @@ namespace Ferrocons_csv
 
         OdbcDataReader dr2;
         OdbcConnection conexion;
-        OdbcCommand comando;
-        OdbcDataReader dr;
+        OdbcCommand comando;        
         DataTable dt;
         string cadenaConexion;
 
