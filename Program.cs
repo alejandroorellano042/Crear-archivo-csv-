@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using Renci.SshNet;
 
-namespace Ferrocons_csv
+namespace App_csv
 {
     static class Program
     {
