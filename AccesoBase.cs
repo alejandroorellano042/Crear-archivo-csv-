@@ -1,7 +1,7 @@
 ﻿using System.Data.Odbc;
 using System.Data;
 
-namespace Ferrocons_csv
+namespace App_csv
 {
     class AccesoBase
     {
